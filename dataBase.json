@@ -1,0 +1,108 @@
+{
+  "transporters": [
+    {
+      "UserName": "jain",
+      "Email": "jain23@gmail.com",
+      "Number": "789458746",
+      "VehicleType": "8 wheeler",
+      "ExpectedWage": "5000-10000",
+      "password": "testpassword",
+      "id": 1
+    },
+    {
+      "UserName": "sam",
+      "Email": "samm@gmail.com",
+      "Number": "654876512165",
+      "VehicleType": "4 wheeler",
+      "ExpectedWage": "10000-20000",
+      "password": "samme",
+      "id": 2
+    },
+    {
+      "UserName": "raju",
+      "Email": "raju@gmail.com",
+      "Number": "775984613",
+      "VehicleType": "8wheeler",
+      "ExpectedWage": "10000-20000",
+      "password": "openhidden",
+      "id": 3
+    },
+    {
+      "UserName": "kiran",
+      "Email": "kiran43@gmail.com",
+      "Number": "786678342",
+      "VehicleType": "4 wheeler",
+      "ExpectedWage": "5000-10000",
+      "password": "testPassword",
+      "id": 4
+    },
+    {
+      "UserName": "jamun",
+      "Email": "jaamun@gmail.com",
+      "Number": "7754629643",
+      "VehicleType": "ship",
+      "ExpectedWage": "10000-20000",
+      "password": "testPassword",
+      "id": 1
+    },
+    {
+      "UserName": "ravi",
+      "Email": "ravi@gmail.com",
+      "Number": "855479961",
+      "VehicleType": "4wheeler",
+      "ExpectedWage": "1000-5000",
+      "password": "openkey",
+      "id": 5
+    }
+  ],
+  "manufacturers": [
+    {
+      "CompanyName": "goods Textiles",
+      "Email": "goodtextile@gmail.com",
+      "Number": "896674821",
+      "Address": "2nd colony\nhyderabad\nmiyapur \n",
+      "password": "thisIsAtest",
+      "id": 1
+    },
+    {
+      "CompanyName": "coolPens",
+      "Email": "coolpens@gmail.com",
+      "Number": "7556978426",
+      "Address": "miyapur\nhyderabad",
+      "password": "2ndtest",
+      "id": 2
+    },
+    {
+      "CompanyName": "hot mail",
+      "Email": "hotmails@gmail.com",
+      "Number": "8586647912",
+      "Address": "2nd street\nmiyapur\nhyderabad",
+      "password": "openhidden",
+      "id": 3
+    },
+    {
+      "CompanyName": "help transporters",
+      "Email": "transporters@gmsil.com",
+      "Number": "7755699884",
+      "Address": "kphb colony\nmetro line\nhyderabad",
+      "password": "opentest",
+      "id": 4
+    },
+    {
+      "CompanyName": "rapid rentals",
+      "Email": "rapirentals@gmail.com",
+      "Number": "7558844996",
+      "Address": "any where in hyderabad",
+      "password": "regiser password",
+      "id": 5
+    },
+    {
+      "CompanyName": "new company",
+      "Email": "company@gmail.com",
+      "Number": "7744866591",
+      "Address": "near ragavendhra bhavan\npragathi nagar\nmiyaur\nhyderabad",
+      "password": "testpassword",
+      "id": 6
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+#formBody{
+    justify-items: center;
+    background-color:white;
+}
+#formArea{
+    background-image: linear-gradient(pink,violet);
+}
+#hove{
+    display:none;
+}
+#box:hover{
+    border: 3px solid yellow;
+}
+#box:hover #hove{
+    display: block;
+}
